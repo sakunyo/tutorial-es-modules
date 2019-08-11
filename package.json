@@ -1,7 +1,15 @@
 {
   "name": "tutorial-es-modules",
+  "private": true,
+  "version": "0.0.0",
   "dependencies": {
     "cjs-js": "./packages/cjs-js/",
     "mjs-js": "./packages/mjs-js/"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^7.0.0"
   }
 }
