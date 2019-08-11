@@ -1,0 +1,7 @@
+{
+  "name": "tutorial-es-modules",
+  "dependencies": {
+    "cjs-js": "./packages/cjs-js/",
+    "mjs-js": "./packages/mjs-js/"
+  }
+}
